@@ -6,4 +6,12 @@ description: "Release Notes"
 
 ### New
 
-- Test
+- Add in a new info.protestboss.com site
+
+### Improvements
+
+- Automatically refresh your login time if you are using the app less than 5 minutes before your logout expires
+
+### Fixes
+
+- Can no longer refresh to log in before 2 hours
