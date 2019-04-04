@@ -1,5 +1,6 @@
-import tailwind from "tailwindcss"
+/* import tailwind from "tailwindcss"
 
 module.exports = () => ({
   plugins: [tailwind("./tailwind.js")],
 })
+ */
