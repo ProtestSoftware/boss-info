@@ -8,6 +8,7 @@ description: "Release Notes"
 
 - Add in an 'overview' page for projects which allows administrators to view total amount of billable items that the project had undertaken
   and view total amount of hours put towards the project. It also allows administrators to put prices for items next to the project.
+- Add coloured marks to the days that you have put in a timesheet on the timesheet day selector calendar.
 
 ### Fixes
 
