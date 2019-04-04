@@ -7,3 +7,7 @@ description: "Release Notes"
 ### Improvements
 
 - Add ability to filter the project overview by dates
+
+### Changes
+
+- Remove the 'documents' and 'deliverables' tab from the project dashboard when the job is a 'standard' job.
