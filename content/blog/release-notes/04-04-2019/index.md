@@ -7,6 +7,8 @@ description: "Release Notes"
 ### Improvements
 
 - Add ability to filter the project overview by dates
+- Jobs created when making a docket will now automatically be marked as complete
+- Decrease loading time of projects
 
 ### Changes
 
