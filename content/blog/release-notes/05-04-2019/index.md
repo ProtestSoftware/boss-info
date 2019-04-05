@@ -7,4 +7,8 @@ description: "Release Notes"
 ### Improvements
 
 - Speed up load time of tests
-- Speed up loading of test methods 
+- Speed up loading of test methods
+
+### Fixes
+
+- Fix issue with people not being able to put in dockets
