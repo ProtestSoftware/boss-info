@@ -4,6 +4,10 @@ date: "2019-04-05T23:46:37.121Z"
 description: "Release Notes"
 ---
 
+### New
+
+- Add ability to have view an entire branches overview
+
 ### Improvements
 
 - Speed up load time of tests
