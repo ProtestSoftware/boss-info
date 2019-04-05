@@ -16,3 +16,4 @@ description: "Release Notes"
 ### Fixes
 
 - Fix issue with people not being able to put in dockets
+- Fix issue with updating timesheets without editing productivity
