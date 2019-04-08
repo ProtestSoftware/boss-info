@@ -11,3 +11,7 @@ description: "Release Notes"
 ### New
 
 - Notification is sent to project managers and job managers when a deliverable has been marked as invoiced
+
+### Improvements
+
+- Can now view the entire history of approval comments on timesheets
