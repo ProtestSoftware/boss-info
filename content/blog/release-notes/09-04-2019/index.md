@@ -7,3 +7,8 @@ description: "Release Notes"
 ### Fixes
 
 - Can't view job type in the job dashboard
+
+### Improvements
+
+- Speed up the jobs in the project dashboard and remove pagination
+- Add a bar to the Gantt Chart to see the current day
