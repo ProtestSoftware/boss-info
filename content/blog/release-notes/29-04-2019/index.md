@@ -13,3 +13,6 @@ description: "Release Notes"
 
 - Make the project status no longer be dependent on its job's statuses, it is now a field where you can mark the project as
   'Open' or 'Closed'
+- Add on a new status to jobs called 'invoiced'. This is an automatic status and is unable to be altered by a user.
+  A job will be considered 'invoiced' under 2 conditions, the first being when all of its deliverables are marked as invoiced,
+  the second being when a job has no deliverables, and it is marked as 'complete'
