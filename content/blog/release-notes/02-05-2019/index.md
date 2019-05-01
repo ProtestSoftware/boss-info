@@ -8,3 +8,4 @@ description: "Release Notes"
 
 - Test request jobs will now be marked as complete when all tests inside of them
   have reports uploaded
+- Add a status bar to the test request to show percentage of tests completed
