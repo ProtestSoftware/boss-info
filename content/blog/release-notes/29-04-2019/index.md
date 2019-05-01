@@ -6,10 +6,10 @@ description: "Release Notes"
 
 ### Improvements
 
-- Add in ability to easily use the tab key to go to different tabs in projects, jobs, etc.
-- Add in a note to tell approvers whether a timesheet is a pay correction or not.
+- Change the personal job dashboard to be a 'Project Manager Dashboard', where you are now able to see all projects that you are
+  a project manager for, the status of each job, and the status of each project.
 
-### Fixes
+### Changes
 
-- Fix bug with someusers not being able to sign in on certain devices.
-- Fix issue with new pay corrections feature.
+- Make the project status no longer be dependent on its job's statuses, it is now a field where you can mark the project as
+  'Open' or 'Closed'
