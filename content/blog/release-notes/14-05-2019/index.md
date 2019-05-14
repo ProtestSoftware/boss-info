@@ -8,3 +8,7 @@ description: "Release Notes"
 
 - Impliment a new invoice system
 - Percent of jobs completed in project profile jobs page now includes invoiced jobs
+
+### New
+
+- Job Manager Dashboard
