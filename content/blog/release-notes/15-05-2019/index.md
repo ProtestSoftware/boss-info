@@ -5,4 +5,5 @@ description: "Release Notes"
 ---
 
 ### New
+
 - Add in a branch dashboard.
