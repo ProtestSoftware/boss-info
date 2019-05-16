@@ -8,3 +8,7 @@ description: "Release Notes"
 
 - Add in the ability for the accounting group to delete invoices.
 - Automatically add in testing pricing to the deliverable.
+
+### New
+
+- Add in a list to view all invoices
