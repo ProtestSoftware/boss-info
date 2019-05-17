@@ -7,6 +7,7 @@ description: "Release Notes"
 ### Fixes
 
 - Fix deliverables saying invoiced requested at 'invalid date' in the project profile.
+- Fix error updating equipment.
 
 ### Improvements
 
