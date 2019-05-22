@@ -7,7 +7,8 @@ description: "Release Notes"
 ### New
 
 - Add in automatic pricing.
-- Add in a 'create invoice' button in the deliverable profile, this will create a new invoice and add that deliverable to the invoice.
+- Add in a 'Create Invoice' button in the deliverable profile, this will create a new invoice and add that deliverable to the invoice.
+- Add in a 'Duplicate Price' button to copy prices from other clients or projects.
 
 ### Changes
 
