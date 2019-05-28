@@ -5,6 +5,11 @@ description: "Release Notes"
 ---
 
 ### Improvements
-- Add a serach in the invoice list page
-- Add ability to mark all selected invoices as complete
-- Improve invoice page performance by reducing page load speed to < 50% of previous speeds
+
+- Add a search in the invoice list page.
+- Add ability to mark all selected invoices as complete.
+- Improve invoice page performance by reducing page load speed to < 50% of previous speeds.
+
+### Fixes
+
+- Only allow administrators to upload company documents.
