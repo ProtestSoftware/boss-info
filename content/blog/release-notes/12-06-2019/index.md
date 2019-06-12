@@ -14,3 +14,7 @@ description: "Release Notes"
 ### Fixes
 
 - When invoices are marked as completed, all jobs associated to it, without an 'Actual Finish Date', will have it updated to the current date.
+
+### New
+
+- You can now add a 'Role Description' to all roles in the organisation.
