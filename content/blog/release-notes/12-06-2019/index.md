@@ -6,4 +6,7 @@ description: "Release Notes"
 
 ### Changes
 
-- Only allow members of the 'accounting' group to mark invoices as complete. 
+- Only allow members of the 'accounting' group to mark invoices as complete.
+- Add a link to the project's client in the project profile.
+- Remove requirement of selecting project when adding a test request.
+- Add a link back to the invoices page in the invoice profile.
